@@ -2,8 +2,7 @@
 
 <a name="intro"></a>
 # UPPABLE - Crowdfunding Planner (Indiegogo, Kickstarter)
-indiegogoplanner
-Indiegogo Card Planner
+Indiegogo/Kickstarter Card Planner
 
 Video
 
@@ -12,6 +11,8 @@ Introduction
 Stretch Goals
 
 Perks
+
+Advanced Tips
 
 $1 and so on
 
